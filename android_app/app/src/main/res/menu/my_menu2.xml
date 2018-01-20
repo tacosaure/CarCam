@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+   <!-- <item
+    android:id="@+id/action_calibrage"
+    android:title="@string/menu_action_calibrage"
+    app:showAsAction="never"/>-->
+
+    <item
+        android:id="@+id/action_refresh"
+        android:title="@string/menu_action_refresh"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_stop_detection"
+        android:title="@string/menu_action_stop_detection"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_restart_motion"
+        android:title="@string/menu_action_restart_motion"
+        app:showAsAction="never"/> <!-- title ne pas oublier de clicker sur l'ampoule puis extraire String pour le mettre de la forme @string -->
+
+    <item
+        android:id="@+id/action_opacity"
+        android:title="@string/menu_action_item_opacity"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/action_check_immatriculation"
+        android:title="@string/menu_action_check_immatriculation"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_check"
+        android:title="@string/menu_action_check"
+        app:showAsAction="never">
+        <menu android:id="@+id/sousmenu">
+            <item
+                android:id="@+id/action_check_id"
+                android:title="@string/sous_menu_action_check_id"/>
+            <item
+                android:id="@+id/action_check_nom"
+                android:title="@string/sous_menu_action_check_name"/>
+            <item
+                android:id="@+id/action_check_full_name"
+                android:title="@string/sous_menu_action_check_fullname"/>
+        </menu>
+    </item>
+</menu>
