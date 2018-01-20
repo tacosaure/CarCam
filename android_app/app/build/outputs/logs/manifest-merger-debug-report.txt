@@ -1,0 +1,113 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:4:5-76
+	android:name
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:4:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:9:5-31:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Johan\.android\build-cache\a8c8946d13a1712104d34b85e4ac060e6fbcdf34\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Johan\.android\build-cache\6210718d51da5b292c61bb1aee0b19c2aa3e0794\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Johan\.android\build-cache\67f753e1bd1430144afea4e347f109a9cb96606c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Johan\.android\build-cache\bf00a2e4885a5497e56f1248244101ab44bee9e3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Johan\.android\build-cache\3dee734fdaaeb51df4b2b51e2815267212db1ca1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Johan\.android\build-cache\ac2d2efbc1942921f351405a8199c8d5ee249542\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Johan\.android\build-cache\1565efe42f05d8cfaa3f6079dd8cb24f3916926e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Johan\.android\build-cache\5f119caf2437acfe903aa0efb39a700108d7a121\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Johan\.android\build-cache\b58a8747ebe57156e244130921a6f8fe3a924af2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Johan\.android\build-cache\40dfb590659444b622affafec7dea8619c0891ed\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:12:9-31
+	android:supportsRtl
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.johan.newtest.MainActivity
+ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:screenOrientation
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:16:13-49
+	android:name
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.johan.newtest.Main2
+ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:25:9-30:25
+	android:screenOrientation
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:28:13-50
+	android:label
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:27:13-35
+	android:configChanges
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:29:13-59
+	android:name
+		ADDED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml:26:13-34
+uses-sdk
+INJECTED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Johan\.android\build-cache\a8c8946d13a1712104d34b85e4ac060e6fbcdf34\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Johan\.android\build-cache\6210718d51da5b292c61bb1aee0b19c2aa3e0794\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Johan\.android\build-cache\67f753e1bd1430144afea4e347f109a9cb96606c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Johan\.android\build-cache\bf00a2e4885a5497e56f1248244101ab44bee9e3\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Johan\.android\build-cache\3dee734fdaaeb51df4b2b51e2815267212db1ca1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Johan\.android\build-cache\ac2d2efbc1942921f351405a8199c8d5ee249542\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Johan\.android\build-cache\1565efe42f05d8cfaa3f6079dd8cb24f3916926e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Johan\.android\build-cache\5f119caf2437acfe903aa0efb39a700108d7a121\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Johan\.android\build-cache\b58a8747ebe57156e244130921a6f8fe3a924af2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Johan\.android\build-cache\40dfb590659444b622affafec7dea8619c0891ed\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Johan\.android\build-cache\a8c8946d13a1712104d34b85e4ac060e6fbcdf34\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Johan\AndroidStudioProjects\NewTest\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Johan\.android\build-cache\a8c8946d13a1712104d34b85e4ac060e6fbcdf34\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Johan\.android\build-cache\6210718d51da5b292c61bb1aee0b19c2aa3e0794\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Johan\.android\build-cache\67f753e1bd1430144afea4e347f109a9cb96606c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Johan\.android\build-cache\bf00a2e4885a5497e56f1248244101ab44bee9e3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Johan\.android\build-cache\3dee734fdaaeb51df4b2b51e2815267212db1ca1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Johan\.android\build-cache\ac2d2efbc1942921f351405a8199c8d5ee249542\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Johan\.android\build-cache\1565efe42f05d8cfaa3f6079dd8cb24f3916926e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Johan\.android\build-cache\5f119caf2437acfe903aa0efb39a700108d7a121\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Johan\.android\build-cache\b58a8747ebe57156e244130921a6f8fe3a924af2\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Johan\.android\build-cache\a8c8946d13a1712104d34b85e4ac060e6fbcdf34\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Johan\.android\build-cache\a8c8946d13a1712104d34b85e4ac060e6fbcdf34\output\AndroidManifest.xml:26:9-47
