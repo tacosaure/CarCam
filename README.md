@@ -10,7 +10,7 @@ All the equipments cost about 150 euros.
 
 We bought a kit at https://www.robotshop.com/eu/fr/voiture-intelligente-video-pour-raspberry-pi-b.html .
 
-###################################################################################################################################
+############################################################################################
 
 Here, you have the server program in python (in the raspberry pi) and the android app code.
 
@@ -23,11 +23,17 @@ In the raspberry pi, you have to install openalpr and build a database.
 Here it is how you can install openalpr with raspbian :
 
   sudo apt-get update
+  
   sudo apt-get install liblog4cplus-1.0-4 beanstalkd libgtk2.0-0 libtiff5 libdc1394-22 libavcodec-dev libavformat-dev libswscale-dev libv4l-dev libxvidcore-dev libx264-dev
+  
   wget http://www.rgot.org/wp-content/uploads/2016/12/openalpr.tgz
+  
   tar -zxvf openalpr.tgz
+  
   sudo dpkg -i openalpr_20161219-1-complet_armhf.deb
+  
   rm openalpr_20161219-1-complet_armhf.deb
+  
   rm openalpr.tgz
   
 (http://www.rgot.org/openalpr-sur-raspberry/)
