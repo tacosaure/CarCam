@@ -38,3 +38,8 @@ Here it is how you can install openalpr with raspbian :
   
 (http://www.rgot.org/openalpr-sur-raspberry/)
 
+############################################################################################
+
+This is a project for "The Projects' Day" at ESIEE PARIS (Engineering School) during the second semester of the 3rd year.
+
+GRADE OBTAINED : A
