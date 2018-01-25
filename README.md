@@ -20,6 +20,8 @@ Be sure that every wire is correctly connect with boards otherwise the server pr
 
 In the raspberry pi, you have to install openalpr and build a database.
 
+############################################################################################
+
 Here it is how you can install openalpr with raspbian :
 
   sudo apt-get update
